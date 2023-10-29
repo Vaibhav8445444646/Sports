@@ -1,0 +1,2 @@
+Equipments : bat,ball,gloves,guard,helmet,stumps.
+
